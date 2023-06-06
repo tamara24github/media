@@ -1,0 +1,169 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Tamara"
+    },
+    {
+      "name": "Ramon Willms IV",
+      "id": 7
+    },
+    {
+      "name": "Kendra Hoeger",
+      "id": 8
+    },
+    {
+      "name": "Dr. Wilbert Hartmann",
+      "id": 9
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Handcrafted Soft Tuna",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "title": "Oriental Concrete Shirt",
+      "id": 12
+    },
+    {
+      "userId": 7,
+      "title": "Elegant Concrete Computer",
+      "id": 15
+    },
+    {
+      "userId": 8,
+      "title": "Gorgeous Metal Towels",
+      "id": 16
+    },
+    {
+      "userId": 7,
+      "title": "Handcrafted Cotton Car",
+      "id": 17
+    },
+    {
+      "userId": 7,
+      "title": "Bespoke Fresh Soap",
+      "id": 18
+    },
+    {
+      "userId": 9,
+      "title": "Generic Fresh Mouse",
+      "id": 19
+    },
+    {
+      "userId": 7,
+      "title": "Small Bronze Shirt",
+      "id": 20
+    },
+    {
+      "userId": 1,
+      "title": "Oriental Wooden Cheese",
+      "id": 21
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=47077",
+      "id": 7
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=29480",
+      "id": 9
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=9294",
+      "id": 10
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=92789",
+      "id": 11
+    },
+    {
+      "albumId": 18,
+      "url": "https://loremflickr.com/150/150/abstract?lock=10504",
+      "id": 12
+    },
+    {
+      "albumId": 18,
+      "url": "https://loremflickr.com/150/150/abstract?lock=43378",
+      "id": 13
+    },
+    {
+      "albumId": 19,
+      "url": "https://loremflickr.com/150/150/abstract?lock=22101",
+      "id": 14
+    },
+    {
+      "albumId": 19,
+      "url": "https://loremflickr.com/150/150/abstract?lock=84441",
+      "id": 15
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=51932",
+      "id": 16
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=88500",
+      "id": 17
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=41798",
+      "id": 18
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=88604",
+      "id": 19
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=53140",
+      "id": 20
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=69451",
+      "id": 21
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=73238",
+      "id": 22
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=34403",
+      "id": 23
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7071",
+      "id": 24
+    },
+    {
+      "albumId": 21,
+      "url": "https://loremflickr.com/150/150/abstract?lock=49993",
+      "id": 25
+    },
+    {
+      "albumId": 21,
+      "url": "https://loremflickr.com/150/150/abstract?lock=94813",
+      "id": 26
+    },
+    {
+      "albumId": 21,
+      "url": "https://loremflickr.com/150/150/abstract?lock=13537",
+      "id": 27
+    }
+  ]
+}
