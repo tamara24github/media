@@ -1,3 +1,14 @@
+<h1><strong> Development Techniques: </strong></h1>
+<h3> redux toolkit: asyncThunk & reduxToolkitQuery; <br/>
+createStore, createSlice, createAsyncThunk, createApi; <br/>
+useState, useEffect, useCallback, useDispatch, useSelector, fetchBaseQuery and custom made hook (useThunk); <br/>
+fetch: .then().unwrap().catch().finally(); <br/>
+libraries: reduxjs/toolkit, react-redux, TailwindCSS, react-icons, classNames, json-server, axios, faker-js; <br/> </h3>
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
